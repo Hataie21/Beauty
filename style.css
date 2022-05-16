@@ -171,7 +171,7 @@ h1{
     
     height: 604px;
     
-    background-image: url(/image/Rectangle\ 2.jpg) ;
+    background-image: url(./image/Rectangle\ 2.jpg) ;
     background-size: cover;
 }
 .main__inner{
@@ -449,16 +449,16 @@ footer-info {
     background-color:rgb(155 216 156 / 0.1);
 }
 .social-youtube {
-    background-image: url(/image/Vector\ \(3\).svg);
+    background-image: url(./image/Vector\ \(3\).svg);
 }
 .social-vk {
-    background-image: url(/image/Vector\ \(4\).svg);
+    background-image: url(./image/Vector\ \(4\).svg);
 }
 .social-fb {
-    background-image: url(/image/Vector\ \(5\).svg);
+    background-image: url(./image/Vector\ \(5\).svg);
 }
 .social-instagram {
-    background-image: url(/image/instagram.svg);
+    background-image: url(./image/instagram.svg);
 }
 .footer-bottom {
     display: flex;
